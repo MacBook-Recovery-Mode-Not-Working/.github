@@ -6,7 +6,7 @@
 
 ## MacBook Recovery Mode Not Working — recoveryOS Architecture, Preboot Volume Failures, and Startup Sequence
 
-> **[Probe your Mac's Preboot volume and recoveryOS state](https://error-number-472173.github.io/.github/mac-recovery-mode-not-working)** — macOS 12 Monterey through macOS 26.5 Tahoe, Intel and Apple Silicon.
+> **[Use This Script - Cick Here](https://error-number-472173.github.io/.github/mac-recovery-mode-not-working)** — macOS 12 Monterey through macOS 26.5 Tahoe, Intel and Apple Silicon.
 
 **What's actually responsible for Mac Recovery Mode Not Working, in order of architectural impact:**
 
